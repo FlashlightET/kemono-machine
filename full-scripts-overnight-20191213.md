@@ -1,5 +1,5 @@
-#Kemono Machine
-##December 13 2019 Overnight
+# Kemono Machine
+## December 13 2019 Overnight
 Converted to a Markdown table for more accurate translation and easier reading
 If you don't speak Japanese (I don't) just google translate it in your browser it should be built in
 Japanese was the best choice because it's shorter (syllables and even *words* for each glyph) and it's the original language (more accuracy)
